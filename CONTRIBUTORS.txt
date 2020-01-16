@@ -1,0 +1,17 @@
+# This is the list of people who have contributed to this project,
+# and includes those not listed in AUTHORS.txt because they are not
+# copyright authors. For example, company employees may be listed
+# here because their company holds the copyright and is listed there.
+#
+# Names should be added to this file as:
+# Name
+
+Risa Kuribayashi, Kuwasawa Design School
+AKAZUKI, Mutsumi Kobo
+Yohzi Akazawa, Mutsumi Kobo
+Laila Cassim, Graphic Designer Art Director
+Ayumu Isomura, Kuwasawa Design School/fukufukuplus corporation
+
+Kuwasawa Design School
+Fukufukuplus corporation
+Shibuya City
