@@ -1,4 +1,4 @@
-# Palette　mosaic　font　mono
+# Palette mosaic font mono
 
 <h2>はじめに</h2>
 こちらは今後GoogleFontsに提供するフォントです（まだ修正する可能性があります）<br />
