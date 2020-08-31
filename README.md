@@ -1,5 +1,7 @@
 # Palette mosaic font mono
 
+<img src="./palettemosaicfontmono.jpeg" />
+
 <h2>はじめに</h2>
 こちらは今後GoogleFontsに提供するフォントです（まだ修正する可能性があります）<br />
 
