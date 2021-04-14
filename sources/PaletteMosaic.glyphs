@@ -1,6 +1,6 @@
 {
 .appVersion = "1342";
-copyright = "Copyright 2020 The Palette Mosaic Font One Project Authors (https://github.com/shibuyafont/Palette-mosaic-font-mono), all rights reserved.";
+copyright = "Copyright 2020 The Palette Mosaic Project Authors (https://github.com/shibuyafont/Palette-mosaic-font-mono), all rights reserved.";
 customParameters = (
 {
 name = vendorID;
@@ -39,7 +39,7 @@ date = "2020-01-16 22:08:14 +0000";
 designer = Shibuyafont;
 designerURL = "http://www.shibuyafont.jp/index.html";
 disablesAutomaticAlignment = 1;
-familyName = "Palette Mosaic Font One";
+familyName = "Palette Mosaic";
 featurePrefixes = (
 {
 automatic = 1;
@@ -58462,5 +58462,5 @@ weightClass = Normal;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

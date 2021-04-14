@@ -2,9 +2,9 @@ from fontmake import __main__
 from fontTools.ttLib import TTFont, newTable
 import shutil
 
-__main__.main(("-g","sources/PaletteMosaicOne.glyphs", "-o","ttf",))
+__main__.main(("-g","sources/PaletteMosaic.glyphs", "-o","ttf",))
 
-path = "master_ttf/PaletteMosaicFontOne-Regular.ttf"
+path = "master_ttf/PaletteMosaic-Regular.ttf"
 
 
 modifiedFont = TTFont(path)
@@ -19,7 +19,7 @@ modifiedFont["DSIG"].signatureRecords = []
 modifiedFont["gasp"] = newTable("gasp")
 modifiedFont["gasp"].gaspRange = {65535: 0x000A} #Font is shipping UNHINTED :D
 
-modifiedFont.save("fonts/ttf/PaletteMosaicFontOne-Regular.ttf")
+modifiedFont.save("fonts/ttf/PaletteMosaic-Regular.ttf")
 
 shutil.rmtree("instance_ufo")
 shutil.rmtree("master_ufo")
