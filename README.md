@@ -1,4 +1,4 @@
-# Palette mosaic font mono
+# Palette mosaic mono
 
 <img src="./palettemosaicfontmono.jpeg" />
 
